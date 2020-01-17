@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS321_W2D1_BlogAPI.Tests", "CS321_W2D1_BlogAPI.Tests.csproj", "{CFFFAD7C-70D3-4CA3-9AA5-70F3A3573755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFFAD7C-70D3-4CA3-9AA5-70F3A3573755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFFAD7C-70D3-4CA3-9AA5-70F3A3573755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFFAD7C-70D3-4CA3-9AA5-70F3A3573755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFFAD7C-70D3-4CA3-9AA5-70F3A3573755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

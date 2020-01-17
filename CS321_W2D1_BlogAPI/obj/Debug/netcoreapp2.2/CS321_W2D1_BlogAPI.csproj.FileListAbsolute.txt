@@ -1,0 +1,16 @@
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.csprojAssemblyReference.cache
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.RazorAssemblyInfo.cache
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.RazorAssemblyInfo.cs
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.AssemblyInfoInputs.cache
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.AssemblyInfo.cs
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.deps.json
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.runtimeconfig.json
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.runtimeconfig.dev.json
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.dll
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.pdb
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.RazorTargetAssemblyInfo.cache
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.dll
+/Users/jasonblue/Desktop/BlogAP/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.pdb
